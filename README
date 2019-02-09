@@ -1,0 +1,3 @@
+This program is used to show how to tune parameters (as an alternative to
+scikit-learn's grid_search)
+At first you should unzip data, then run hw_3.py
